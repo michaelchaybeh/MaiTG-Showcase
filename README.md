@@ -68,3 +68,9 @@ The production source code, Git history, Telegram sessions, credentials, and pri
 ## Project Status
 
 Operational as of October 2026.
+
+## Full Project Case Study
+
+Read the [MaiTG Engineering Case Study](CASE_STUDY.md)
+for the complete development journey, engineering
+decisions, technical challenges, tests, and results.
